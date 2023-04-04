@@ -1,2 +1,2 @@
 # My personal blog :)
-<a href="https://720922.github.io">Visit Site</a>
+<a href="https://hackinsec.com">Visit Site</a>
