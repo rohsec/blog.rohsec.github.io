@@ -27,18 +27,18 @@ description: >-                        # used by seo meta and the atom feed
   My personal blog where all my bug findings get documented ;)
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://720922.github.io'
+url: 'https://cyberK9.github.io'
 
 github:
-  username: 720922             # change to your github username
+  username: cyberK9             # change to your github username
 
 twitter:
-  username: hackinsec            # change to your twitter username
+  username: cyberK9sec            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Rohit Yadav
+  name: cyber canine
   email: rohit0x01@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
