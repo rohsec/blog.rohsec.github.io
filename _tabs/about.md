@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=1500&pause=600&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi+👋!;I+am+Rohit%2Ca.k.a+@hackinsec;BugBounty+Hunter+%7C+HackerOne+Ambassador&repeat=false)](https://twitter.com/hackinsec)
+[![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=1500&pause=600&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi+👋!;I+am+Rohit%2Ca.k.a+@cyberK9;BugBounty+Hunter+%7C+HackerOne+Ambassador&repeat=false)](https://twitter.com/hackinsec)
 
 
 <!-- I am Rohit, an Ethical Hacker , Bug Bounty Hunter and a Flet/Flutter developer.  -->
