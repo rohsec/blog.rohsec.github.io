@@ -19,7 +19,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 720922                          # the main title
+title: Rohsec(#720922)                          # the main title
 
 tagline: BUGBOUNTY HUNTER   # it will display as the sub-title
 
@@ -27,23 +27,23 @@ description: >-                        # used by seo meta and the atom feed
   My personal blog where all my bug findings get documented ;)
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://cyberK9.github.io'
+url: 'https://rohsec.github.io'
 
 github:
-  username: cyberK9             # change to your github username
+  username: rohsec             # change to your github username
 
 twitter:
-  username: cyberK9sec            # change to your twitter username
+  username: rohsec            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: cyber canine
+  name: Rohit Yadav
   email: rohit0x01@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/marcos_iaf      # change to your twitter homepage
-    - https://github.com/720922       # change to your github homepage
+    - https://twitter.com/rohsec      # change to your twitter homepage
+    - https://github.com/rohsec       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
