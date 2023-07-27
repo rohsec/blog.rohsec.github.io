@@ -6,9 +6,11 @@ order: 4
 
 <!-- [![Typing Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=1500&pause=600&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi+👋!;I+am+Rohit%2Ca.k.a+@rohsec;BugBounty+Hunter+%7C+HackerOne+Ambassador&repeat=false)](https://twitter.com/hackinsec) -->
 
+Hi 👋! I am Rohit a.k.a rohsec. I am a full time BugBounty Hunter and  HackerOne Ambassador.
+I like identifying vulnerabilities and helping organizations reinforce their defenses. I have ethically hacked and secured various big techs such as Sony, RedBull, BBC, Dutch Government etc. 
+
 ![SocialBanner](https://i.postimg.cc/Jn2gYH24/rohsectemplatefont2.png)
 <!-- I am rohsec, an Ethical Hacker , Bug Bounty Hunter and a Flet/Flutter developer.  -->
-
 
 
 ## Socials
