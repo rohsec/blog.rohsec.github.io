@@ -20,7 +20,7 @@ The Challenge is created by ZWink and revolves around basic Authentication Bypas
 On first visting the challenge page we are served with a bold ```ACCESS  DENIED``` message and a clown laughing on our face.
 Below that we see a form with a inpout field containing the message ```Kreepy Klown denies you access!```, our goal is to get to the other side of the webapp and get the hidden flag.
 
-[![blog4a.png](https://i.postimg.cc/59vZdbY4/blog4a.png)](https://postimg.cc/23kHnp7M)
+[![blog4a3home.png](https://i.postimg.cc/9fsSMfK8/blog4a3home.png)](https://postimg.cc/yJXnp7Vc)
 
 There seems nothing intresting in first glance and fuzzing/automated testing is strictly prohibited as it is not going to help us in anyway :)
 Looking at the source code of the application, we see a form making a POST request to ```/klown.cfm``` with various input fields but the one which caught the attention is the hidden field named ```captcha``` with a random value.
