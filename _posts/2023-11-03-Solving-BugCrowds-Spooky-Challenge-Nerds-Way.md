@@ -38,6 +38,8 @@ First thing first, we need to copy the hidden captcha value and paste it into th
 
 [![blog4b.png](https://i.postimg.cc/YC5S3Dk9/blog4b.png)](https://postimg.cc/BjCsZgj9)
 
+>Note: The server is expecting any random value in the password input field and passing the captcha in the password input is not at all necessary, this is just what I did.
+
 Now, we need to submit the form but we see the Submit button doesn't work, let's fix that
 >```document.getElementById('smile').disabled=false```
 
